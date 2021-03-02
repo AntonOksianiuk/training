@@ -5,7 +5,7 @@ import java.util.Date;
 
 public class LineTask5 {
 	public static void main(String[] args) {
-		SimpleDateFormat sdf = new SimpleDateFormat("H÷:mì:sñ");
+		SimpleDateFormat sdf = new SimpleDateFormat("HÑ‡:mĞ¼:sÑ");
 		Date currentDate = new Date();
 		System.out.println(sdf.format(currentDate));
 	}

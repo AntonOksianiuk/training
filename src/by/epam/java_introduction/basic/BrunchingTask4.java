@@ -16,7 +16,7 @@ public class BrunchingTask4 {
 			if (b >= x || b >= y) answer = true;
 		}
 
-		System.out.println("Пройдёт ли кирпич через отверстие?  " + answer);
+		System.out.println("РџСЂРѕР№РґС‘С‚ Р»Рё РєРёСЂРїРёС‡ С‡РµСЂРµР· РѕС‚РІРµСЂСЃС‚РёРµ?  " + answer);
 	}
 
 }

@@ -7,7 +7,7 @@ public class CyclesTask1 {
 	public static void main(String[] args) {
 		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Введите любое положительное целое число :   ");
+		System.out.println("Р’РІРµРґРёС‚Рµ Р»СЋР±РѕРµ РїРѕР»РѕР¶РёС‚РµР»СЊРЅРѕРµ С†РµР»РѕРµ С‡РёСЃР»Рѕ :   ");
 
 		int number = sc.nextInt();
 		int count = 1, sum = 0;
@@ -17,7 +17,7 @@ public class CyclesTask1 {
 			count++;
 		}
 
-		System.out.println("Сумма чисел до введённого = " + sum);
+		System.out.println("РЎСѓРјРјР° С‡РёСЃРµР» РґРѕ РІРІРµРґС‘РЅРЅРѕРіРѕ = " + sum);
 	}
 
 }

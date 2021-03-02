@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class CyclesTask7 {
 
 	public static void main(String[] args) {
-		System.out.print("Введите промежуток чисел через пробел : ");
+		System.out.print("Р’РІРµРґРёС‚Рµ РїСЂРѕРјРµР¶СѓС‚РѕРє С‡РёСЃРµР» С‡РµСЂРµР· РїСЂРѕР±РµР» : ");
 		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
 		
@@ -16,7 +16,7 @@ public class CyclesTask7 {
 
 		while (m < n) {
 			int count = 2;
-			System.out.print("Делители " + m + " = ");
+			System.out.print("Р”РµР»РёС‚РµР»Рё " + m + " = ");
 
 			while (count < m) {
 				if (m % count == 0)

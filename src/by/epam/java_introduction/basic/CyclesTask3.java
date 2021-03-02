@@ -7,7 +7,7 @@ public class CyclesTask3 {
 		for (int i = 0; i < 100; i++) {
 			buffer += Math.pow(i, 2);
 		}
-		System.out.println("Ñóììà êâàäðàòîâ ïåðâûõ 100 ÷èñåë ðàâíà = " + buffer);
+		System.out.println("Ð¡ÑƒÐ¼Ð¼Ð° ÐºÐ²Ð°Ð´Ñ€Ð°Ñ‚Ð¾Ð² Ð¿ÐµÑ€Ð²Ñ‹Ñ… 100 Ñ‡Ð¸ÑÐµÐ» Ñ€Ð°Ð²Ð½Ð° = " + buffer);
 
 	}
 

@@ -8,7 +8,7 @@ public class BrunchingTask3 {
 		
 		boolean answer = false;
 		if ((x1 == x2 & x1 == x3) || (y1 == y2 & y1 == y3)) answer = true;
-		System.out.println("Они находятся на одной линии ?  " + answer);
+		System.out.println("РћРЅРё РЅР°С…РѕРґСЏС‚СЃСЏ РЅР° РѕРґРЅРѕР№ Р»РёРЅРёРё ?  " + answer);
 	
 	}
 

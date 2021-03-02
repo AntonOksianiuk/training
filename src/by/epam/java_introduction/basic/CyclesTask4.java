@@ -9,7 +9,7 @@ public class CyclesTask4 {
 			buffer *= Math.pow(i, 2);
 		}
 		
-		System.out.println("Произведение квадратов первых 200 чисел =  " + buffer);
+		System.out.println("РџСЂРѕРёР·РІРµРґРµРЅРёРµ РєРІР°РґСЂР°С‚РѕРІ РїРµСЂРІС‹С… 200 С‡РёСЃРµР» =  " + buffer);
 
 	}
 

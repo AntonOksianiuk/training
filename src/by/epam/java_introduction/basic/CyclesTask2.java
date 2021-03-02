@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class CyclesTask2 {
 
 	public static void main(String[] args) {
-		System.out.println("Введите значение a, b (отрезок), h через пробел");
+		System.out.println("Р’РІРµРґРёС‚Рµ Р·РЅР°С‡РµРЅРёРµ a, b (РѕС‚СЂРµР·РѕРє), h С‡РµСЂРµР· РїСЂРѕР±РµР»");
 		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
 		

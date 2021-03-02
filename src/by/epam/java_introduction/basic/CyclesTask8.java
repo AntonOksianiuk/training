@@ -11,8 +11,8 @@ public class CyclesTask8 {
 
 		int numberOne = sc.nextInt(), numberTwo = sc.nextInt();
 
-		System.out.println("Цифры входящие в состав первого числа = " + numberEnter(numberOne));
-		System.out.println("Цифры входящие в состав второго числа = " + numberEnter(numberTwo));
+		System.out.println("Р¦РёС„СЂС‹ РІС…РѕРґСЏС‰РёРµ РІ СЃРѕСЃС‚Р°РІ РїРµСЂРІРѕРіРѕ С‡РёСЃР»Р° = " + numberEnter(numberOne));
+		System.out.println("Р¦РёС„СЂС‹ РІС…РѕРґСЏС‰РёРµ РІ СЃРѕСЃС‚Р°РІ РІС‚РѕСЂРѕРіРѕ С‡РёСЃР»Р° = " + numberEnter(numberTwo));
 
 	}
 
